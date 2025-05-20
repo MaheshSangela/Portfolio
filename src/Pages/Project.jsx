@@ -7,8 +7,8 @@ const Project = () => {
                 <h1 className='text-4xl mt-5 mb-20 text-white '>Projects</h1>
             </div>
             { /* First project */}
-            <div className='flex w-full flex-wrap  justify-center gap-10 p-2'>
-                <div className="  card p-4 flex items-center justify-between flex-wrap">
+            <div className='flex w-full flex-wrap items-center justify-center gap-10 p-2'>
+                <div className="  card p-4 flex items-center justify-center flex-wrap">
                     <div className=" text-white flex flex-col w-xs ">
                         <h1 className="text-2xl mb-2 text-sky-500"> Food Recipy App</h1>
                         <p className="text-md"><span className='text-lg text-gray-400'>About Project:</span> A dynamic Recipe App that displays a variety of meals with smooth user experience. </p>
